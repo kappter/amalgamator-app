@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/amalgamator-app/static/js/main.c921c540.js",
+    "index.html": "/amalgamator-app/index.html",
+    "main.c921c540.js.map": "/amalgamator-app/static/js/main.c921c540.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c921c540.js"
+  ]
+}
